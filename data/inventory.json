@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Milk",
+        "price": 350,
+        "quantity": 10,
+        "barcode": "123456789",
+        "category": "Dairy"
+    },
+    {
+        "id": 2,
+        "name": "isabelle",
+        "price": 120.0,
+        "quantity": 10,
+        "barcode": "3274080005003",
+        "category": "Unknown category"
+    }
+]
