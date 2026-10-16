@@ -14,5 +14,21 @@
         "quantity": 10,
         "barcode": "3274080005003",
         "category": "Unknown category"
+    },
+    {
+        "id": 3,
+        "name": "Unknown product",
+        "price": 5000.0,
+        "quantity": 324567,
+        "barcode": "12345678",
+        "category": "Unknown category"
+    },
+    {
+        "id": 4,
+        "name": "Nutella",
+        "price": 100.0,
+        "quantity": 90,
+        "barcode": "3017624010701",
+        "category": "Unknown category"
     }
 ]
